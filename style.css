@@ -141,7 +141,7 @@ header {
             background: var(--bg-acessibilidade);
         }
        
-        @media(min-width: 1100px) {
+         
             body {
                 background: var(--bg-desktop) var(--bg-color);
                 background-size: cover;
@@ -205,5 +205,5 @@ header {
                 height: 56px;
                 padding: 8px;
             }
-        }
+        
         
